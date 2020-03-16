@@ -1,13 +1,15 @@
 {
-  "main.css": "/react-hooks/static/css/main.99dd1fe3.chunk.css",
-  "main.js": "/react-hooks/static/js/main.c5c97543.chunk.js",
-  "main.js.map": "/react-hooks/static/js/main.c5c97543.chunk.js.map",
-  "static/js/1.4997a56f.chunk.js": "/react-hooks/static/js/1.4997a56f.chunk.js",
-  "static/js/1.4997a56f.chunk.js.map": "/react-hooks/static/js/1.4997a56f.chunk.js.map",
-  "runtime~main.js": "/react-hooks/static/js/runtime~main.c0555af0.js",
-  "runtime~main.js.map": "/react-hooks/static/js/runtime~main.c0555af0.js.map",
-  "static/css/main.99dd1fe3.chunk.css.map": "/react-hooks/static/css/main.99dd1fe3.chunk.css.map",
-  "index.html": "/react-hooks/index.html",
-  "precache-manifest.0831e228ff465b68ab2d94736ec4c719.js": "/react-hooks/precache-manifest.0831e228ff465b68ab2d94736ec4c719.js",
-  "service-worker.js": "/react-hooks/service-worker.js"
+  "files": {
+    "main.css": "/ajeetx/static/css/main.4f0d7ee8.chunk.css",
+    "main.js": "/ajeetx/static/js/main.ed2493d7.chunk.js",
+    "main.js.map": "/ajeetx/static/js/main.ed2493d7.chunk.js.map",
+    "runtime~main.js": "/ajeetx/static/js/runtime~main.74fcc151.js",
+    "runtime~main.js.map": "/ajeetx/static/js/runtime~main.74fcc151.js.map",
+    "static/js/2.8ed35f5f.chunk.js": "/ajeetx/static/js/2.8ed35f5f.chunk.js",
+    "static/js/2.8ed35f5f.chunk.js.map": "/ajeetx/static/js/2.8ed35f5f.chunk.js.map",
+    "index.html": "/ajeetx/index.html",
+    "precache-manifest.945e9cb8a2122370ee4241ffafadc736.js": "/ajeetx/precache-manifest.945e9cb8a2122370ee4241ffafadc736.js",
+    "service-worker.js": "/ajeetx/service-worker.js",
+    "static/css/main.4f0d7ee8.chunk.css.map": "/ajeetx/static/css/main.4f0d7ee8.chunk.css.map"
+  }
 }
